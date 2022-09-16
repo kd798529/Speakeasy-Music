@@ -1,0 +1,6 @@
+framework module Pods_Speakeasy_Music {
+  umbrella header "Pods-Speakeasy Music-umbrella.h"
+
+  export *
+  module * { export * }
+}
